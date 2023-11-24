@@ -1,0 +1,45 @@
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.user-body{
+    width: 40%;
+    height: 300px;
+    border: 2px solid black;
+    margin-left: 35rem;
+    margin-top: 10rem;
+}
+.user-name-div{
+    margin-left: 30px;
+    flex: none;
+    margin-top: 1rem;
+}
+.user{
+padding-left: 240px;
+padding-top: 10px;
+}
+.login-heading{
+    padding-top: 2rem;
+    padding-left: 15rem;
+}
+input {
+    margin-left: 15rem;
+    margin-top: 1rem;
+}
+label.user {
+    padding-left: 212px;
+    padding-top: 1rem;
+}
+.user-p{
+    padding-left: 241px;
+}
+label.user-p {
+    padding-top: 5rem;
+}.forgot{
+    padding-left: 15rem;
+    padding-top: 1rem;
+}
+.user-in{
+    padding-left: 15px;
+}
